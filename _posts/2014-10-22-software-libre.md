@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Software libre?"
-date: 2014-10-22 16:25:06 -0500
+date: 2014-10-22 22:45:57 -0500
 comments: false
 ---
 

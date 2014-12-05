@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Jekyll para blogs"
-date: 2014-11-03 16:25:06 -0700
-comments: true
+date: 2014-11-03 14:15:32 -0500
+comments: false
 ---
 
 Jekyll viene con la idea de crear un blog estático, algo con lo cual sea fácil de mantener. En comparación con una herramienta de blogging dinámico, como WordPress, que se construye con un lenguaje del lado del servidor como PHP, pero, un sitio web estático tiene 2 grandes ventajas.

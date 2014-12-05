@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Acerca del Perfil de Hacker"
-date: 2014-10-15 18:25:06 -0500
+date: 2014-10-15 19:06:15 -0500
 comments: true
 ---
 
