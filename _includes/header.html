@@ -31,6 +31,9 @@
                     <li class="active"><a href="{{ site.url }}/about.html">Acerca de mí</a></li>
                     <li class="active visible-xs-block"><a href="{{ site.url }}/links.html">Contacto</a></li>
                     <li class="active"><a href="{{ site.url }}/feed.xml">RSS</a></li>
+                    {% if site.github != '' %}
+                      <li class="active"><a href="https://github.com/jfgonzalezg/JohnF-blog/">Github</a></li>
+                    {% endif %}
                 </ul>
               </div>
         </div>
